@@ -1,0 +1,36 @@
+inmate_id,name,age,offense,offense_category,sentence_years,cell_id,admission_date,release_date,status,nationality,behavior_score,work_hours
+1001,Marcus Reid,34,Armed Robbery,Violent,8.5,1,2020-03-15,2028-09-15,active,American,72,145
+1002,Darnell Washington,28,Drug Trafficking,Drug-related,5.0,2,2021-07-01,2026-07-01,active,American,65,98
+1003,James Holden,45,Tax Evasion,White-collar,3.5,3,2022-01-10,2025-07-10,active,British,88,210
+1004,Carlos Rivera,31,Grand Theft,Theft/Fraud,4.0,4,2020-11-20,2024-11-20,released,Mexican,55,80
+1005,Mohammed Al-Amin,39,Money Laundering,White-collar,7.0,5,2019-06-05,2026-06-05,active,Nigerian,79,180
+1006,Victor Okonkwo,52,Homicide,Violent,20.0,6,2015-09-12,2035-09-12,active,Ghanaian,40,60
+1007,Tyler Brooks,24,Hacking,Cybercrime,2.5,7,2023-04-18,2025-10-18,active,American,91,250
+1008,Nathan Pierce,38,Assault,Violent,6.0,8,2021-02-28,2027-02-28,active,British,58,90
+1009,Isaiah Jefferson,29,Drug Possession,Drug-related,1.5,9,2023-09-01,2025-03-01,active,American,82,160
+1010,Diego Salazar,44,Kidnapping,Violent,12.0,10,2018-05-30,2030-05-30,active,Brazilian,35,40
+1011,Raymond Chu,36,Identity Theft,Theft/Fraud,3.0,11,2022-08-14,2025-08-14,active,American,76,130
+1012,Patrick Nwosu,27,Manufacturing Narcotics,Drug-related,6.5,12,2020-12-01,2027-06-01,active,Nigerian,62,75
+1013,Sean McCarthy,50,Bribery,White-collar,4.5,13,2021-03-22,2025-09-22,active,Irish,85,195
+1014,Andre Dubois,33,Arson,Other,5.5,14,2020-07-07,2026-01-07,active,French,48,55
+1015,Boris Petrov,41,Cyberstalking,Cybercrime,3.0,15,2022-11-11,2025-11-11,active,Russian,70,110
+1016,Kevin Yamamoto,26,Online Fraud,Cybercrime,2.0,1,2023-06-30,2025-06-30,active,Japanese,93,280
+1017,Leon Adeyemi,37,Embezzlement,Theft/Fraud,5.0,2,2021-10-10,2026-10-10,active,Nigerian,81,175
+1018,Rashid Khan,43,Insider Trading,White-collar,3.5,3,2022-04-01,2025-10-01,active,Pakistani,86,220
+1019,Jonah Mbeki,30,Manslaughter,Violent,9.0,4,2019-08-19,2028-08-19,active,South African,60,85
+1020,Ivan Kowalski,47,Bank Fraud,Theft/Fraud,6.0,5,2020-01-25,2026-01-25,active,Polish,73,140
+1021,Felix Osei,22,Drug Possession,Drug-related,1.0,6,2024-01-10,2025-01-10,released,Ghanaian,90,200
+1022,Hamid Nazari,35,Data Breach,Cybercrime,4.0,7,2022-07-07,2026-07-07,active,Iranian,77,155
+1023,Emmanuel Tetteh,48,Homicide,Violent,25.0,8,2010-03-03,2035-03-03,active,Ghanaian,42,50
+1024,Alejandro Vega,32,Armed Robbery,Violent,7.5,9,2020-09-09,2028-03-09,active,Colombian,55,95
+1025,Desmond Hall,25,Vandalism,Other,1.5,10,2023-12-01,2025-06-01,active,American,88,185
+1026,Akin Adewale,40,Drug Trafficking,Drug-related,8.0,11,2019-04-15,2027-04-15,active,Nigerian,50,70
+1027,Samuel Osei,29,Grand Theft,Theft/Fraud,3.0,12,2023-02-20,2026-02-20,active,Ghanaian,72,120
+1028,Roberto Lima,55,Murder,Violent,30.0,13,2005-11-08,2035-11-08,active,Brazilian,28,20
+1029,Harry Stone,31,Contempt of Court,Other,0.5,14,2024-07-01,2025-01-01,released,British,95,300
+1030,Yusuf Diallo,36,Money Laundering,White-collar,6.5,15,2021-05-18,2027-11-18,active,Senegalese,69,130
+1031,Chris Okeke,23,Burglary,Theft/Fraud,2.5,1,2023-08-08,2026-02-08,active,Nigerian,83,170
+1032,David Park,38,Tax Evasion,White-collar,4.0,2,2022-06-25,2026-06-25,active,Korean,87,210
+1033,Mateus Silva,44,Assault,Violent,5.5,3,2021-01-14,2026-07-14,active,Brazilian,61,100
+1034,Omar Hassan,27,Cyberstalking,Cybercrime,2.0,4,2023-10-30,2025-10-30,active,Egyptian,84,190
+1035,Frank Mensah,49,Arson,Other,7.0,5,2019-09-22,2026-09-22,active,Ghanaian,46,55
